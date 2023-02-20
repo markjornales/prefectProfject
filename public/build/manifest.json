@@ -1,0 +1,97 @@
+{
+  "resources/js/app.css": {
+    "file": "assets/app-37416aa4.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/src/Pages/Home/Index.jsx": {
+    "file": "assets/Index-b3fc8247.js",
+    "src": "resources/js/src/Pages/Home/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_auto-d3cf1122.js",
+      "resources/js/src/Pages/Home/Utils.jsx"
+    ]
+  },
+  "resources/js/src/Pages/Auth/Login.jsx": {
+    "file": "assets/Login-9ca5bf17.js",
+    "src": "resources/js/src/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/src/Pages/Home/Utils.jsx": {
+    "file": "assets/Utils-bd3f3493.js",
+    "src": "resources/js/src/Pages/Home/Utils.jsx",
+    "isDynamicEntry": true
+  },
+  "resources/js/src/Pages/StudentRecord/Index.jsx": {
+    "file": "assets/Index-34e99816.js",
+    "src": "resources/js/src/Pages/StudentRecord/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
+      "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
+      "_Record-b371db8a.js"
+    ]
+  },
+  "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx": {
+    "file": "assets/DeleteViolation-e167d31c.js",
+    "src": "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/src/Pages/StudentRecord/AddingViolation.jsx": {
+    "file": "assets/AddingViolation-bc990d79.js",
+    "src": "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_Record-b371db8a.js": {
+    "file": "assets/Record-b371db8a.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/src/Pages/Routes/RouteNavigation.jsx": {
+    "file": "assets/RouteNavigation-f7a94053.js",
+    "src": "resources/js/src/Pages/Routes/RouteNavigation.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_Record-b371db8a.js",
+      "_auto-d3cf1122.js",
+      "resources/js/src/Pages/Home/Utils.jsx",
+      "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
+      "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx"
+    ]
+  },
+  "_auto-d3cf1122.js": {
+    "file": "assets/auto-d3cf1122.js"
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-194ed288.js",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/src/Pages/Auth/Login.jsx",
+      "resources/js/src/Pages/Home/Index.jsx",
+      "resources/js/src/Pages/Home/Utils.jsx",
+      "resources/js/src/Pages/Routes/RouteNavigation.jsx",
+      "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
+      "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
+      "resources/js/src/Pages/StudentRecord/Index.jsx",
+      "_Record-b371db8a.js"
+    ],
+    "css": [
+      "assets/app-37416aa4.css"
+    ]
+  }
+}
