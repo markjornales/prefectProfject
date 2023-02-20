@@ -26,15 +26,12 @@
     "src": "resources/js/src/Pages/Home/Utils.jsx",
     "isDynamicEntry": true
   },
-  "resources/js/src/Pages/StudentRecord/Index.jsx": {
-    "file": "assets/Index-db6c5fae.js",
-    "src": "resources/js/src/Pages/StudentRecord/Index.jsx",
+  "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx": {
+    "file": "assets/DeleteViolation-fda3952e.js",
+    "src": "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
     "isDynamicEntry": true,
     "imports": [
-      "resources/js/app.jsx",
-      "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
-      "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
-      "_Record-5d5a99de.js"
+      "resources/js/app.jsx"
     ]
   },
   "resources/js/src/Pages/StudentRecord/AddingViolation.jsx": {
@@ -45,12 +42,15 @@
       "resources/js/app.jsx"
     ]
   },
-  "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx": {
-    "file": "assets/DeleteViolation-fda3952e.js",
-    "src": "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
+  "resources/js/src/Pages/StudentRecord/Index.jsx": {
+    "file": "assets/Index-db6c5fae.js",
+    "src": "resources/js/src/Pages/StudentRecord/Index.jsx",
     "isDynamicEntry": true,
     "imports": [
-      "resources/js/app.jsx"
+      "resources/js/app.jsx",
+      "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
+      "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
+      "_Record-5d5a99de.js"
     ]
   },
   "_Record-5d5a99de.js": {
