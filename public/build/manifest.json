@@ -26,14 +26,6 @@
     "src": "resources/js/src/Pages/Home/Utils.jsx",
     "isDynamicEntry": true
   },
-  "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx": {
-    "file": "assets/DeleteViolation-fda3952e.js",
-    "src": "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
   "resources/js/src/Pages/StudentRecord/AddingViolation.jsx": {
     "file": "assets/AddingViolation-a32e90c5.js",
     "src": "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
@@ -51,6 +43,14 @@
       "resources/js/src/Pages/StudentRecord/AddingViolation.jsx",
       "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
       "_Record-5d5a99de.js"
+    ]
+  },
+  "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx": {
+    "file": "assets/DeleteViolation-fda3952e.js",
+    "src": "resources/js/src/Pages/StudentRecord/DeleteViolation.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
     ]
   },
   "_Record-5d5a99de.js": {
