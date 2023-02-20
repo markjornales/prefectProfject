@@ -37,7 +37,7 @@ use App\Http\Controllers\Main\HomeController;
 // });
 
 // Route::get('/', function() {
-//     return Inertia::render('Auth/Login');
+//     return Inertia::render('Auth/Login'); asdasd
 // })->name('login');
 Route::middleware('auth')->prefix('/')->group(function() {
     Route::get('/', function(){
